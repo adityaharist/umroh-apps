@@ -473,3 +473,7 @@ code {
   text-align: center;
   line-height: 100px;
 }
+
+.bg.page-content {
+  background-color: #F4F4F4;
+}

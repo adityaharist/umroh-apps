@@ -5,11 +5,41 @@ var routes = [
     url: './index.html',
     name: 'home',
   },
-  // About page
+  // Halaman pengenalan
   {
     path: '/about/',
     url: './pages/about.html',
     name: 'about',
+  },
+  // Halaman pengetahuan
+  {
+    path: '/materi/',
+    url: './pages/materi.html',
+    name: 'materi',
+  },
+  // Halaman doa
+  {
+    path: '/detil-doa/',
+    url: './pages/doa.html',
+    name: 'detil-doa',
+  },
+  // Halaman doa
+  {
+    path: '/tempat-ziarah/',
+    url: './pages/list-ziarah.html',
+    name: 'tempat-ziarah',
+  },
+  // Halaman video
+  {
+    path: '/list-video/',
+    url: './pages/list-video.html',
+    name: 'list-video',
+  },
+  // Halaman detil video
+  {
+    path: '/detail-video/',
+    url: './pages/detail-video.html',
+    name: 'detail-video',
   },
   // Right Panel pages
   {
@@ -24,12 +54,12 @@ var routes = [
                 <span class="ios-only">Back</span>\
               </a>\
             </div>\
-            <div class="title">Panel Page 1</div>\
+            <div class="title">Panel Halaman 1</div>\
           </div>\
         </div>\
         <div class="page-content">\
           <div class="block">\
-            <p>This is a right panel page 1</p>\
+            <p>Ini adalah panel halaman 1</p>\
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo saepe aspernatur inventore dolorum voluptates consequatur tempore ipsum! Quia, incidunt, aliquam sit veritatis nisi aliquid porro similique ipsa mollitia eaque ex!</p>\
           </div>\
         </div>\
@@ -48,12 +78,12 @@ var routes = [
                 <span class="ios-only">Back</span>\
               </a>\
             </div>\
-            <div class="title">Panel Page 2</div>\
+            <div class="title">Panel Halaman 2</div>\
           </div>\
         </div>\
         <div class="page-content">\
           <div class="block">\
-            <p>This is a right panel page 2</p>\
+            <p>Ini adalah panel halaman 2</p>\
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo saepe aspernatur inventore dolorum voluptates consequatur tempore ipsum! Quia, incidunt, aliquam sit veritatis nisi aliquid porro similique ipsa mollitia eaque ex!</p>\
           </div>\
         </div>\
