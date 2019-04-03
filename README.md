@@ -8,3 +8,5 @@ Aplikasi materi umroh dengan berbagai fitur diantaranya
 4. Quiz umroh (not yet)
 5. Arah kiblat guide (not yet, need plugin phonegap and cordova)
 6. Tempat wisata religi
+
+Kekurangan : - (masih ditunggu)
